@@ -1,2 +1,3 @@
-# Tech-Inventory-System-Python-MySQL-
+# Tech Inventory System (Python + MySQL)
+
 
